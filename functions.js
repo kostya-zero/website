@@ -25,3 +25,7 @@ function open_matrix() {
 function open_tg() {
     window.open("https://t.me/kostya_zer0", "_blank").focus()
 }
+
+function open_website_sources() {
+    window.open("https://github.com/kostya-zero/website", "_blank").focus()
+}
