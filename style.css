@@ -1,0 +1,52 @@
+body {
+    background: #111111;
+    color: #f1f1f1;
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;
+    min-height: 98vh;
+    font-size: 16px;
+    font-family: "Lato", serif;
+}
+
+.nav-title {
+    font-style: normal;
+    font-weight: bolder;
+    margin-right: 15px;
+}
+
+.nav-entry {
+    margin-right: 15px;
+}
+
+.nav-entry:hover {
+    text-decoration: underline;
+    cursor: pointer;
+}
+
+footer {
+    position: relative;
+    bottom: 0;
+    padding: 15px;
+}
+
+nav {
+    display: flex;
+    list-style: none;
+    padding: 15px ;
+}
+
+.main-div {
+    position: relative;
+    padding-left: 370px;
+    padding-right: 370px;
+}
+
+.main-title {
+    font-weight: bolder;
+    font-size: 42px;
+}
+
+.main-text {
+    font-size: 24px;
+}
