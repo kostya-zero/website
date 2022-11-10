@@ -53,6 +53,7 @@ nav {
 
 .label-mast {
     color: #bc76ff;
+    transition: 0.3s;
 }
 
 .label-mast:hover {
@@ -63,6 +64,7 @@ nav {
 
 .label-matrix {
     color: #4bff8c;
+    transition: 0.3s;
 }
 
 .label-matrix:hover {
@@ -73,6 +75,7 @@ nav {
 
 .label-tg {
     color: #4baeff;
+    transition: 0.3s;
 }
 
 .label-tg:hover {
