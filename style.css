@@ -50,3 +50,33 @@ nav {
 .main-text {
     font-size: 24px;
 }
+
+.label-mast {
+    color: #bc76ff;
+}
+
+.label-mast:hover {
+    color: #111111;
+    background: #bc76ff;
+    cursor: pointer;
+}
+
+.label-matrix {
+    color: #4bff8c;
+}
+
+.label-matrix:hover {
+    color: #111111;
+    background: #4bff8c;
+    cursor: pointer;
+}
+
+.label-tg {
+    color: #4baeff;
+}
+
+.label-tg:hover {
+    color: #111111;
+    background: #4baeff;
+    cursor: pointer;
+}
